@@ -4,5 +4,5 @@
 
 
 # Contact Me
-  ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_email_black_24px.svg) nic0lae@member.fsf.org
-  ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_phone_black_24px.svg) 650 942 9548
+o ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_email_black_24px.svg) nic0lae@member.fsf.org
+o ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_phone_black_24px.svg) 650 942 9548

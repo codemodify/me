@@ -5,6 +5,6 @@
 
 ### Contact Me
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_email_black_24px.svg) nic0lae@member.fsf.org
-- ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_phone_black_24px.svg)  [650 942 9548](tel:+16509429548 "650 942 9548")
+- ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_phone_black_24px.svg)  <a href="tel:+16509429548">650 942 9548</a>
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_people_black_24px.svg) [LinkedIn](https://www.linkedin.com/in/nic0lae "LinkedIn")
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_mood_black_24px.svg) [Facebook](https://facebook.com/nic0lae "Facebook")

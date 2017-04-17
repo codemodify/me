@@ -11,7 +11,7 @@
 
 
 ### ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_forum_black_24px.svg) I do care about Community
-                                                                                                                                                |
+ &nbsp;                                                                                                                                         | &nbsp;
 ------------------------------------------------------------------------------------------------------------------------------------------------|----------------------
 [ThankGNUs](https://www.gnu.org/thankgnus/2017supporters.html "ThankGNUs") <img src="https://static.fsf.org/nosvn/associate/crm/1080099.png" /> | <img src="https://github.com/nic0lae/resume/releases/download/staticpics/osimember.png" width="200px" />
 

@@ -47,72 +47,84 @@
 => HTML5 on Desktop  ~ http://git.io/n3rvIg
 => FreeBSD Distro    ~ http://git.io/yUFESQ
 => YAOS              ~ http://git.io/9zhngA
+=> MathToolBelt      ~ https://git.io/vSbrE
+=> ctci              ~ https://git.io/vSbr2 (wrote the initial C# version)
 ```
 
 
 
 ## ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_code_black_24px.svg) Software Engineering Record
 ```text
- => Recognos ~ AppDevManager() ~ JS, Kendo, jQuery, HTML5, C#
-    * Increased speed 150 times for importing millions of records by rewriting
-      C# code to use System.Data.SqlClient.SqlBulkCopy
-    * Integrated Phone Dialing adapter into the MS CRM using HTML5, JS
- => Altaven ~ SDE / ReleaseManager() ~ C++, C#, JS, WCF, Azure, TFS12, MSBUILD
-    * Cut development time 1h/day per developer by overhauling TFS Server,
-      C++ and C# Projects, MSBuild Scripts, Parallel Builds
-    * Achieved 70% performance improve in C++, C# and SQL code for various
-      scenarios in data load
-    * Customer critical bug fixing
-    * Enhanced code quaity by puting in place ALM practices based on Visual
-      Studio 2010 LabManagement, Tests, Daily Reports, Time Tracking
- => Legal & General ~ SEConsultant() ~ ASP.NET, C#, AS400
-    * Drove requirements compiling, specs, architecure & development of the
-      ASP.NET solution to automate prospect dialing & processing
-      800 % productivity increase compared to existing IBM AS400 solution
-    * Increased email processing times to 2000 records in 10 min from 5 
-      hours of manual verification, by implementing a VSTO C# based solution
- => EMC ~ SEConsultant() ~ C#, Java, MQSeries, InputAccel, Dispatcher
-    * Slashed data storage processing time by 50 % and export time by 80 %
-      through generating a new C# module, eliminating ODBC and enabling direct
-      connectivity to Oracle by using ODAC
-    * Reduced XML parsing time from O(n^3) to O(n) by rewriting the C# code
-    * Trimmed payment and ATOS validation module processing by 10 % through
-      applying a pool approach in Java
-    * Code deploied to 25 Societe Generale sites, treating 25000 orders/day
- => Abalta Technologies ~ SEConsultant() ~ C++, Win32Api, ActionScript, COM
-    * Developed the communication mechanism for advertisement oriented platform
-      a Flash application can send/receive messages using FSCommand() to a C++ 
-      host on a Windows Mobile 6
- => Multimedia Solutions ~ Symbian SDE() ~ C++, Symbian C++, C, PIPS
-    * Built the knowlege of how to develop on Symbian OS (S60) by providing
-      C++ POC code for Kernel & User space in analogy to the Linux C code
-    * Oversaw and mentored Linux development team of 6 in project requiring
-      porting phone camera code from Linux to Symbian platform
-    * Created a POC Symbian camera application with custom extended features
- => Weston Digital ~ SDE() ~ C++, C#, WSS, COM, ATL, VSTO, Win32Api, ASN.1
-    * Build C++/C# network mini-redirector to integrate SharePoint services
-      into Windows/Office technologies using win32 api (hooks, IPC, threads,
-      in - memory patching)
-    * Created audio recording application and expanded customer support
-      capabilities for Siemens Realitis DX 7
-    * Optimized handling of CISCO Skinny, H.323, H.255.0, H.255.0 - Q.931
-    * In charge of InstallShield deployment packages
-    * Wrote C++ multithreaded IPC, C++/CLI bridge for C++ and the C# parts
-    * Wrote C# wrapper for the NTFS "Alternate Data Streams"
-    * Wrote COM handler for IE "Asynchronous Pluggable Protocol"
-    * Wrote COM component to extend IE with custom toolbar buttons
-    * Wrote hooking component to implement a notification mechanism on
-      arbitrary file-copy in Windows Explorer and command line
- => Echo Technologies ~ SDE() ~ C++, Qt, MFC, JAM
-    * Reengineered and rewrote MFC messaging application server and client
-      using Qt to enable cross platform capabilities
-    * Research into Mozilla source code to identify opportunities in porting
-      it to use company's custom transport layer. Digged into NSPR* and XPCOM
- => StarNet / Microline / State University ~ Developer() ~ C++, C#, C++ Builder
-    * Boosted customer satisfaction through development of a WinForms and
-      SQL Server information system to automate client requests, dispatch
-      functions, tracking and alerts
-    * Expanded primary accounting application through creating a plugin
-      that enabling real time tracking of orders
-    * MFC developer for image processing application
+=> Recognos ~ AppDevManager() ~ JS, Kendo, jQuery, HTML5, C#
+   * Increased speed 150 times for importing millions of records by rewriting
+     C# code to use System.Data.SqlClient.SqlBulkCopy
+   * Integrated Phone Dialing adapter into the MS CRM using HTML5, JS
+=> Altaven ~ SDE / ReleaseManager() ~ C++, C#, JS, WCF, Azure, TFS12, MSBUILD
+   * Cut development time 1h/day per developer by overhauling TFS Server,
+     C++ and C# Projects, MSBuild Scripts, Parallel Builds
+   * Achieved 70% performance improve in C++, C# and SQL code for various
+     scenarios in data load
+   * Customer critical bug fixing
+   * Enhanced code quaity by puting in place ALM practices based on Visual
+     Studio 2010 LabManagement, Tests, Daily Reports, Time Tracking
+=> Legal & General ~ SEConsultant() ~ ASP.NET, C#, AS400
+   * Drove requirements compiling, specs, architecure & development of the
+     ASP.NET solution to automate prospect dialing & processing
+     800 % productivity increase compared to existing IBM AS400 solution
+   * Increased email processing times to 2000 records in 10 min from 5 
+     hours of manual verification, by implementing a VSTO C# based solution
+=> EMC ~ SEConsultant() ~ C#, Java, MQSeries, InputAccel, Dispatcher
+   * Slashed data storage processing time by 50 % and export time by 80 %
+     through generating a new C# module, eliminating ODBC and enabling direct
+     connectivity to Oracle by using ODAC
+   * Reduced XML parsing time from O(n^3) to O(n) by rewriting the C# code
+   * Trimmed payment and ATOS validation module processing by 10 % through
+     applying a pool approach in Java
+   * Code deploied to 25 Societe Generale sites, treating 25000 orders/day
+=> Abalta Technologies ~ SEConsultant() ~ C++, Win32Api, ActionScript, COM
+   * Developed the communication mechanism for advertisement oriented platform
+     a Flash application can send/receive messages using FSCommand() to a C++ 
+     host on a Windows Mobile 6
+=> Multimedia Solutions ~ Symbian SDE() ~ C++, Symbian C++, C, PIPS
+   * Built the knowlege of how to develop on Symbian OS (S60) by providing
+     C++ POC code for Kernel & User space in analogy to the Linux C code
+   * Oversaw and mentored Linux development team of 6 in project requiring
+     porting phone camera code from Linux to Symbian platform
+   * Created a POC Symbian camera application with custom extended features
+=> Weston Digital ~ SDE() ~ C++, C#, WSS, COM, ATL, VSTO, Win32Api, ASN.1
+   * Build C++/C# network mini-redirector to integrate SharePoint services
+     into Windows/Office technologies using win32 api (hooks, IPC, threads,
+     in - memory patching)
+   * Created audio recording application and expanded customer support
+     capabilities for Siemens Realitis DX 7
+   * Optimized handling of CISCO Skinny, H.323, H.255.0, H.255.0 - Q.931
+   * In charge of InstallShield deployment packages
+   * Wrote C++ multithreaded IPC, C++/CLI bridge for C++ and the C# parts
+   * Wrote C# wrapper for the NTFS "Alternate Data Streams"
+   * Wrote COM handler for IE "Asynchronous Pluggable Protocol"
+   * Wrote COM component to extend IE with custom toolbar buttons
+   * Wrote hooking component to implement a notification mechanism on
+     arbitrary file-copy in Windows Explorer and command line
+=> Echo Technologies ~ SDE() ~ C++, Qt, MFC, JAM
+   * Reengineered and rewrote MFC messaging application server and client
+     using Qt to enable cross platform capabilities
+   * Research into Mozilla source code to identify opportunities in porting
+     it to use company's custom transport layer. Digged into NSPR* and XPCOM
+=> StarNet / Microline / State University ~ Developer() ~ C++, C#, C++ Builder
+   * Boosted customer satisfaction through development of a WinForms and
+     SQL Server information system to automate client requests, dispatch
+     functions, tracking and alerts
+   * Expanded primary accounting application through creating a plugin
+     that enabling real time tracking of orders
+   * MFC developer for image processing application
 ```
+
+
+
+## [](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_photo_camera_black_24px.svg)In Short
+I do enjoy CS field. I mainly speak C++, JS, C# some Java, a bunch of scripting and build systems.
+Got some Microsoft Certifications back in the day: 70-536, 70-541, 70-512.
+Weirdly but somehow I managed to learn to speak Romanian, English, French, Russian and Bulgarian.
+
+I do enjoy Photography with my Fujifilm XT-1 and a bunch of fast and sharp lenses.
+The result is here: https://500px.com/nic0lae

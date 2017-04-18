@@ -11,9 +11,9 @@
 
 
 ### ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_forum_black_24px.svg) I do care about Community
- FSF    | OSI    | Linux  | KDE
+ FSF    | OSI    | Linux | KDE
 --------|--------|--------|--------
-[ThankGNUs](https://www.gnu.org/thankgnus/2017supporters.html "ThankGNUs") <img src="https://static.fsf.org/nosvn/associate/crm/1080099.png" /> | <img src="https://github.com/nic0lae/resume/releases/download/staticpics/osimember.png" width="200px" /> | Linux Foundation Annual Individual Supporter | KDE Foundation Annual Supporting Member
+[ThankGNUs](https://www.gnu.org/thankgnus/2017supporters.html "ThankGNUs") <img src="https://static.fsf.org/nosvn/associate/crm/1080099.png" /> | <img src="https://github.com/nic0lae/resume/releases/download/staticpics/osimember.png" width="300px" /> | [Linux Foundation](https://www.linuxfoundation.org "Linux Foundation") Annual Individual Supporter | [KDE Community](https://relate.kde.org/civicrm/profile?gid=18&search=0 "KDE Community") Annual Supporting Member
 
 
 

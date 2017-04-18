@@ -121,7 +121,7 @@
 
 
 
-## [](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_photo_camera_black_24px.svg)In Short
+## ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_photo_camera_black_24px.svg) In Short
 I do enjoy CS field. I mainly speak C++, JS, C# some Java, a bunch of scripting and build systems.
 Got some Microsoft Certifications back in the day: 70-536, 70-541, 70-512.
 Weirdly but somehow I managed to learn to speak Romanian, English, French, Russian and Bulgarian.

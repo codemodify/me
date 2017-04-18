@@ -28,10 +28,11 @@
 
 
 ## Apps I've built for ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_android_black_24px.svg) and ![](https://materialdesignicons.com/api/download/icon/svg/2829275C-A01C-42CD-A195-447629791D04) 
-```javascript
- => iTongue           ~ http://git.io/Wur8xw (340K+ Downloads) (in Paris created a startup "Gen Solutions")
- => BigHouse          ~ http://git.io/Zj2-8g
- => Chiedi            ~ http://git.io/RPZd2A (soft to sell services on Italy's market, a yellow pages alternative)
- => StudentShare      ~ http://git.io/LNVmxg
- => MusicShare        ~ http://evaproduction.com (soft to sell music on Moldova's market)
+```text
+=> No Key Entry ~ http://www.hoauamerica.com
+=> iTongue      ~ http://git.io/Wur8xw (340K+ Downloads) (in Paris created a startup "Gen Solutions")
+=> BigHouse     ~ http://git.io/Zj2-8g
+=> Chiedi       ~ http://git.io/RPZd2A (soft to sell services on Italy's market, a yellow pages alternative)
+=> StudentShare ~ http://git.io/LNVmxg
+=> MusicShare   ~ http://evaproduction.com (soft to sell music on Moldova's market)
 ```

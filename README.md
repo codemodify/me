@@ -17,7 +17,7 @@
 
 
 
-### Companies I've built
+### ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_work_black_24px.svg) Startups I've built
 - Autonomia - [Git](https://github.com/Autonomia "Git"), [Site](http://autonomia.io "Site")
 - Gen Solutions - [Git](https://github.com/nic0lae?tab=repositories&q=GenSolutions "Gen Solutions")
 

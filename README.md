@@ -52,6 +52,7 @@
 
 
 ## ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_code_black_24px.svg) Software Engineering Record
+```text
  => Recognos ~ AppDevManager() ~ JS, Kendo, jQuery, HTML5, C#
     * Increased speed 150 times for importing millions of records by rewriting
       C# code to use System.Data.SqlClient.SqlBulkCopy
@@ -114,3 +115,4 @@
     * Expanded primary accounting application through creating a plugin
       that enabling real time tracking of orders
     * MFC developer for image processing application
+```

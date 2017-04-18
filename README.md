@@ -9,8 +9,8 @@
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_mood_black_24px.svg) [Facebook](https://facebook.com/nic0lae "Facebook")
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_rss_feed_black_24px.svg) Blogs
     - [Tech](https://nic0lae.github.io "Tech")
-    - [Blink](https://rockblink.blogspot.com "Blink")
-    - [Wayland](http://rockwayland.blogspot.com "Wayland")
+    - [Hacking Blink](https://rockblink.blogspot.com "Hacking Blink")
+    - [Hacking Wayland](http://rockwayland.blogspot.com "Hacking Wayland")
     - [Daily Post](http://dailygpost.blogspot.com "Daily Post")
 
 
@@ -18,7 +18,7 @@
 ### ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_forum_black_24px.svg) I do care about the Community
  FSF    | OSI    | Linux | KDE
 --------|--------|--------|--------
-[Thank GNUs](https://www.gnu.org/thankgnus/2017supporters.html "Thank GNUs") <img src="https://static.fsf.org/nosvn/associate/crm/1080099.png" /> | <img src="https://github.com/nic0lae/resume/releases/download/staticpics/osimember.png" width="300px" /> | [Linux Foundation](https://www.linuxfoundation.org "Linux Foundation") Annual Individual Supporter | [KDE Community](https://relate.kde.org/civicrm/profile?gid=18&search=0 "KDE Community") Annual Supporting Member
+[Thank GNUs](https://www.gnu.org/thankgnus/2017supporters.html "Thank GNUs") <img src="https://static.fsf.org/nosvn/associate/crm/1080099.png" /> | <img src="https://github.com/nic0lae/resume/releases/download/staticpics/osimember.png" width="400px" /> | [Linux Foundation](https://www.linuxfoundation.org "Linux Foundation") Annual Individual Supporter | [KDE Community](https://relate.kde.org/civicrm/profile?gid=18&search=0 "KDE Community") Annual Supporting Member
 
 
 
@@ -26,3 +26,11 @@
 - Autonomia - [Git](https://github.com/Autonomia "Git"), [Site](http://autonomia.io "Site")
 - Gen Solutions - [Git](https://github.com/nic0lae?tab=repositories&q=GenSolutions "Gen Solutions")
 
+
+### Apps I've built ![](https://materialdesignicons.com/api/download/icon/svg/2829275C-A01C-42CD-A195-447629791D04) and ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_android_black_24px.svg)
+
+ => iTongue           ~ http://git.io/Wur8xw (340K+ Downloads) (in Paris created a startup "Gen Solutions")
+ => BigHouse          ~ http://git.io/Zj2-8g
+ => Chiedi            ~ http://git.io/RPZd2A (soft to sell services on Italy's market, a yellow pages alternative)
+ => StudentShare      ~ http://git.io/LNVmxg
+ => MusicShare        ~ http://evaproduction.com (soft to sell music on Moldova's market)

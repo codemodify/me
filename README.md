@@ -7,6 +7,7 @@
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_people_black_24px.svg) [LinkedIn](https://www.linkedin.com/in/nic0lae "LinkedIn")
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_videocam_black_24px.svg) [YouTube](https://www.youtube.com/channel/UCe-6hpCmxECeU3v80VHSwow "YouTube")
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_mood_black_24px.svg) [Facebook](https://facebook.com/nic0lae "Facebook")
+- ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_photo_camera_black_24px.svg)[500px](https://500px.com/nic0lae "500px")
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_record_voice_over_black_24px.svg) Blogs
     - [Tech](https://nic0lae.github.io "Tech")
     - [Hacking Blink](https://rockblink.blogspot.com "Hacking Blink")
@@ -121,10 +122,7 @@
 
 
 
-## ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_photo_camera_black_24px.svg) In Short
-I do enjoy CS field. I mainly speak C++, JS, C# some Java, a bunch of scripting and build systems.
+## ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_content_cut_black_24px.svg) In Short
+I do enjoy Computer Science field. I mainly speak C++, JS, C#, Java, a bunch of scripting languages and build systems.
 Got some Microsoft Certifications back in the day: 70-536, 70-541, 70-512.
-Weirdly but somehow I managed to learn to speak Romanian, English, French, Russian and Bulgarian.
-
-I do enjoy Photography with my Fujifilm XT-1 and a bunch of fast and sharp lenses.
-The result is here: https://500px.com/nic0lae
+Weirdly but somehow I understand humans that speak Romanian, English, French, Russian and Bulgarian.

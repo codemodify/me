@@ -1,5 +1,5 @@
-  
-<img src="https://github.com/nic0lae/resume/releases/download/staticpics/profilepic.jpg" width="200px" />
+
+<img src="https://github.com/username/Resume/blob/pics/profilepic.jpg" width="200px" />
 
 ## In theory this should be Me without any coffee in the /dev/cpu/*
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_email_black_24px.svg) <a href="mailto:nic0lae@linux.com">nic0lae@linux.com</a>
@@ -19,7 +19,7 @@
 ## ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_forum_black_24px.svg) I do care about the Community
  FSF    | OSI    | Linux | KDE
 --------|--------|--------|--------
-[Thank GNUs](https://www.gnu.org/thankgnus/2017supporters.html "Thank GNUs") <img src="https://static.fsf.org/nosvn/associate/crm/1080099.png" /> | <img src="https://github.com/nic0lae/resume/releases/download/staticpics/osimember.png" width="400px" /> | [Linux Foundation](https://www.linuxfoundation.org "Linux Foundation") Annual Individual Supporter | [KDE Community](https://relate.kde.org/civicrm/profile?gid=18&search=0 "KDE Community") Annual Supporting Member
+[Thank GNUs](https://www.gnu.org/thankgnus/2017supporters.html "Thank GNUs") <img src="https://static.fsf.org/nosvn/associate/crm/1080099.png" /> | <img src="https://github.com/username/Resume/blob/pics/osimember.png" width="400px" /> | [Linux Foundation](https://www.linuxfoundation.org "Linux Foundation") Annual Individual Supporter | [KDE Community](https://relate.kde.org/civicrm/profile?gid=18&search=0 "KDE Community") Annual Supporting Member
 
 
 

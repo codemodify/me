@@ -3,7 +3,7 @@
 
 ## In theory this should be Me without any coffee in the /dev/cpu/*
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_email_black_24px.svg) <a href="mailto:nic0lae@linux.com">nic0lae@linux.com</a>
-- ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_phone_black_24px.svg) <a href="tel:+16509429548">650 942 9548</a>
+- ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_phone_black_24px.svg) <a href="tel:+16509429548">646 923 0505</a>
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_people_black_24px.svg) [LinkedIn](https://www.linkedin.com/in/nic0lae "LinkedIn")
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_videocam_black_24px.svg) [YouTube](https://www.youtube.com/channel/UCe-6hpCmxECeU3v80VHSwow "YouTube")
 - ![](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_mood_black_24px.svg) [Facebook](https://facebook.com/nic0lae "Facebook")
